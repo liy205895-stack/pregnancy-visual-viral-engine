@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pregnancy Visual Viral Engine"
+  short_description: "Generate unique pregnancy couple topics and visual prompts"
+  default_prompt: "Use $pregnancy-visual-viral-engine to generate a fresh pregnancy couple topic with Nano Banana Pro and Veo Omni prompts."
